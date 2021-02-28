@@ -3,7 +3,7 @@ console.log(__dirname, __filename);
 
 // console.log("Hello from Node.js...");
 
-const Person = require('./person');
+const Person = require('./person'); // Esta sintaxis se llama common js
 // const person = require('./person');
 // console.log(person);
 
